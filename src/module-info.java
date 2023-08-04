@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author valentinlaveau
+ *
+ */
+module TestGithub {
+}
